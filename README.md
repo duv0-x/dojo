@@ -15,11 +15,11 @@ Dojo/
 
 ## 🥷 01 - Primer entrenamiento: **Exponiendo un microservicio en AWS (Usándo únicamente Go)**
 
-🔹 **Objetivo**: Publicar un microservicio sencillo en AWS usando únicamente Go.  
-🔹 **Infraestructura**: Definida con Go/Pulumi.
-🔹 **Framework**: Gin, porque rápido y ligero como un ninja.  
-🔹 **Desafío**: Hacer todo sin tocar Terraform, CloudFormation ni la consola de AWS.
-🔹 **Entrenamiento**: AWS, Go, Pulumi, Gin.
+* **Objetivo**: Publicar un microservicio sencillo en AWS usando únicamente Go.  
+* **Infraestructura**: Definida con Go/Pulumi.
+* **Framework**: Gin, porque rápido y ligero como un ninja.  
+* **Desafío**: Hacer todo sin tocar Terraform, CloudFormation ni la consola de AWS.
+* **Entrenamiento**: AWS, Go, Pulumi, Gin.
 
 📌 _Más detalles dentro de la carpeta_ `01-wataaah-go/`.
 
