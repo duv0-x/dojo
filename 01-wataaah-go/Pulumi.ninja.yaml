@@ -1,6 +1,0 @@
-config:
-  01-wataaah-go:containerPort: "80"
-  01-wataaah-go:cpu: "512"
-  01-wataaah-go:memory: "128"
-  aws:region: us-west-2
-  pulumi:template: container-aws-go
