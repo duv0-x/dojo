@@ -1,0 +1,49 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Binarios y compilados de Go
+*.exe
+*.out
+*.o
+*.a
+*.so
+*.dll
+
+# Archivos de dependencias y caché de Go
+bin/
+pkg/
+vendor/
+go.sum
+
+# Módulos de Go
+go.work
+go.work.sum
+
+# Archivos de configuración locales y secretos
+.env
+config/*.local.yaml
+config/*.env
+
+# Caché y archivos temporales
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+*.DS_Store
+*.vscode/
+*.idea/
+*.pytest_cache/
+node_modules/
+coverage.out
+air.toml
+air.log
+
+# Bases de datos locales o archivos de estado
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos generados por Go tools
+testdata/
